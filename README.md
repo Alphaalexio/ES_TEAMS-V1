@@ -1,5 +1,5 @@
-﻿# ES_TEAMS-V1
-   <a><img src='https://i.ibb.co/qCTXK9p/ES-TEAMS-V1.jpg'/></a>
+﻿# 𝔸𝕩𝕚𝕠𝕞-V1
+   <a><img src='https://i.ibb.co/qCTXK9p/𝔸𝕩𝕚𝕠𝕞-V1.jpg'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ ES_TEAMS-V1★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PASCHAL+JE;RELEASED+DATE+10%2F10%2F2024." alt="Typing SVG" /></a>
@@ -19,7 +19,7 @@
     </p>
 <p align="center">
 
- ## ES_TEAMS-V1 Deployment Methods
+ ## 𝔸𝕩𝕚𝕠𝕞-V1 Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -39,7 +39,7 @@
 
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## ES_TEAMS-V1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## 𝔸𝕩𝕚𝕠𝕞-V1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 
 ### DO YOU WANT A FAST PANEL AND WORRY LESS ABOUT DAILY COINS?
@@ -68,31 +68,31 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES TEAMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/263786641436"><img src="https://img.shields.io/badge/Contact ES TEAMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VasNIY86xCSWT8ar7M2M"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=pink" />
 <a href="https://t.me/examsolutionteam"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 <br>
 
-* [🧑‍💻 Follow ES TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
+* [🧑‍💻 Follow 𝔸𝕩𝕚𝕠𝕞 𝕋𝕖𝕔𝕙 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VasNIY86xCSWT8ar7M2M)
 
 * [🧑‍💻 Follow ES TEAMS TECH on Youtube 🧑‍💻](https://youtube.com/@esteams)
 
-* [✅ Join Public Group ⚡](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
+* [✅ Join Public Group ⚡](https://whatsapp.com/channel/0029VasNIY86xCSWT8ar7M2M)
 
 
-- *ES_TEAMS-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝔸𝕩𝕚𝕠𝕞 MD_V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use ES_TEAMS-V1 at your own risk by keeping this warning in mind.*
+- *Use 𝔸𝕩𝕚𝕠𝕞 MD-V1 at your own risk by keeping this warning in mind.*
   
-  #### ```ES TEAMS TECH PROFILE VIEWS 🧚```
+  #### ```𝔸𝕩𝕚𝕠𝕞 𝕋𝕖𝕔𝕙 PROFILE VIEWS 🤖```
 ![Visitor Count](https://profile-counter.glitch.me/paskito002/count.svg)
 
 
 ## Community and Support
 
 FOLLOW ES_TEAMS WHATSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VasNIY86xCSWT8ar7M2M)
 
